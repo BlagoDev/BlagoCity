@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# Caches
+__pycache__/
+
+# Environments
+venv/
+
+# Databases
+*.db
+
+# Project stuff
+StaffFiles/
